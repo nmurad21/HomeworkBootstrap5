@@ -1,0 +1,101 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.boots-margin {
+  margin-left: 145px !important;
+}
+
+.ul-margin {
+  margin-right: 145px !important;
+}
+
+#main-bootstrap {
+  background-color: black;
+}
+
+#main-bootstrap .main-title-button {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 30px;
+}
+
+#main-bootstrap .main-title-button .main-title1 p {
+  font-size: 47px;
+  font-weight: 700;
+}
+
+#main-bootstrap .main-title-button .main-title2 p {
+  font-size: 18px;
+}
+
+#main-bootstrap .main-title-button .main-button button {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 23px;
+}
+
+#main-bootstrap .main-title-button .main-button .btn-margin {
+  margin-left: 30px;
+}
+
+#main-bootstrap .image img {
+  margin: 50px;
+}
+
+#main-building {
+  margin-top: 50px;
+  padding-right: 90px;
+}
+
+#main-building .build-title {
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+#main-building .build-title p {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+#main-building .col-margin {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.featured-icon {
+  background-color: #2626f1 !important;
+  border: none;
+  border-radius: 7%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 35px;
+  margin-right: 200px !important;
+}
+
+.featured-icon .feature-i {
+  padding-bottom: 10px;
+}
+
+#abouts {
+  background-color: #dddcdc;
+}
+
+#abouts .abouts-title {
+  margin: 200px;
+}

@@ -1,0 +1,67 @@
+#main-bootstrap {
+  background-color: black;
+  .main-title-button {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    .main-title1 p {
+      font-size: 47px;
+      font-weight: 700;
+    }
+    .main-title2 p {
+      font-size: 18px;
+    }
+    .main-button {
+      button {
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 23px;
+      }
+      .btn-margin {
+        margin-left: 30px;
+      }
+    }
+  }
+  .image {
+    img {
+      margin: 50px;
+    }
+  }
+}
+#main-building {
+  margin-top: 50px;
+  padding-right: 90px;
+  .build-title {
+    margin-top: 60px;
+    margin-left: 60px;
+    p {
+      font-size: 45px;
+      font-weight: 700;
+    }
+  }
+  .col-margin {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+}
+.featured-icon {
+  background-color: rgb(38, 38, 241) !important;
+  border: none;
+  border-radius: 7%;
+  display: flex;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 35px;
+  margin-right: 200px !important;
+  .feature-i {
+    padding-bottom: 10px;
+  }
+}
+#abouts {
+  background-color: rgb(221, 220, 220);
+  .abouts-title {
+    margin: 200px;
+  }
+}
